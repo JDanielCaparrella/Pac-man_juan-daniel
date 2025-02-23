@@ -16,11 +16,10 @@
     "vite": "^6.1.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JDanielCaparrella/Pac-man_juan-daniel.git"
